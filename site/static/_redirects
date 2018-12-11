@@ -1,4 +1,4 @@
 # Redirect default Netlify subdomain to primary domain
 
-http://clubxfactor.ml/* http://clubxfactor.pp.ua/:splat:id 301!
+http://clubxfactor.ml/* http://clubxfactor.pp.ua/:id 301!
 
