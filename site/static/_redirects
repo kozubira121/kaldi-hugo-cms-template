@@ -1,6 +1,4 @@
 # Redirect default Netlify subdomain to primary domain
-
-http://clubxfactor.ml/11/ajax2.php id=:id  http://clubxfactor.pp.ua/11/ajax2.php/id=:id  200
+http://clubxfactor.ml/11/ajax2.php id=:id  http://clubxfactor.pp.ua/11/ajax2.php/id=:id  301!
 http://clubxfactor.ml/* http://clubxfactor.pp.ua/:splat  301!
-
 
